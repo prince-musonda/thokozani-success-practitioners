@@ -14,14 +14,15 @@ body{
 }
 
 .item-1{
-    border: 3px solid blue;
+    border: 2px solid blue;
     height: 80%;
     width: 100%;
+    background-color: rgba(10, 12, 17, 0.952);
 }
 .item-1 img{
     width: 100%;
     height: 100%;
-    object-fit: contain;
+    object-fit:contain;
 }
 .item-2{
     width: 100%;
